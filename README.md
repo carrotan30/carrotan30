@@ -1,6 +1,6 @@
 Hey there, I’m Caleb (@carrotan30)! 
-- I'm interested in looking more into web and app development.
-- Currently, I'm working in SAP and trying our React and next.js. 
+- I'm interested in looking more into web & app development, as well as machine learning.
+- Currently, I'm working with SAP and trying out React and next.js in my personal time. 
 - Email: calebtaneh@gmail.com
 
 <!---
